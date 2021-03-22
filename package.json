@@ -2,7 +2,7 @@
   "name": "helloworld",
   "version": "1.0.0",
   "description": "",
-  "main": "temp/jsx.js",
+  "main": "src/temp/jsx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
