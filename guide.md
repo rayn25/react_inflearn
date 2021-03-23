@@ -76,3 +76,16 @@ default 는 중괄호 없이 나머지는 중괄호 필요
   
 npm install webpack webpack-cli react react-dom
 npx webpack
+
+## create-react-app으로 시작하기
+
+* 리액트 개발 환경을 직접 구출하려면 많은 지식과 노력이 필요
+  - webpack, babel, jest, eslint, polyfill, HMR, CSS 후처리, ...
+* 페스북에서 관리하는 공식 툴 
+
+서버사이드 렌더링을 하는 프로젝트라면 crate-react-app 보다는 Next.js 사용
+
+빌드시스템이나 eslint 등의 설정을 거의 변경 할 수 없음 
+
+Next.js에서는 바벨, 웹펙, eslint 등의 설정을 변경 할 수 있음
+
