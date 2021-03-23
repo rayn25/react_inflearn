@@ -89,3 +89,16 @@ npx webpack
 
 Next.js에서는 바벨, 웹펙, eslint 등의 설정을 변경 할 수 있음
 
+## create-react-app으로 시작하기2
+
+https로 실행 set HTTPS=tru&&npm start
+build명령어 npm run build
+npx serve -s build
+
+사이즈가 작은 이미지는 자바스크립트에 내장 HTTP 요청 횟수 감소 및 빠르게 이미지 렌더링
+
+파일명.spec.js 로 변경해도 test 파일로 인식
+폴더명 __tests__
+
+polyfill
+
